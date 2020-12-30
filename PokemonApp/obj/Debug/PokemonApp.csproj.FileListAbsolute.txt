@@ -1,0 +1,12 @@
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\bin\Debug\PokemonApp.pdb
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.exe
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.pdb
+C:\Users\mustafa9516\source\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csprojAssemblyReference.cache
+D:\2511\repos\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe
+D:\2511\repos\PokemonApp\PokemonApp\bin\Debug\PokemonApp.pdb
+D:\2511\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csprojAssemblyReference.cache
+D:\2511\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.CoreCompileInputs.cache
+D:\2511\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.exe
+D:\2511\repos\PokemonApp\PokemonApp\obj\Debug\PokemonApp.pdb
