@@ -11,6 +11,7 @@ namespace PokemonApp.Interfaces
         void potion();
         String name { get; set; }
         String hpMessage { get; }
+        String element { get; set; }
         int hpleft { get; set; }
 
     }

@@ -45,6 +45,9 @@
     <Compile Include="Characters\Character.cs" />
     <Compile Include="Characters\Charizard.cs" />
     <Compile Include="Characters\Charmander.cs" />
+    <Compile Include="Characters\Pidgey.cs" />
+    <Compile Include="Characters\Pikachu.cs" />
+    <Compile Include="Characters\Squirtle.cs" />
     <Compile Include="Interfaces\IPokemon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -9,12 +9,12 @@ namespace PokemonApp.Characters
     {
         public Charizard()
         {
-        }
-        public Charizard(int hpstart)
-        {
-            this.hpstart = hpstart;
+            name = "Charizard";
+            hpstart = 30;
+            element = "Fire";
             hpleft = hpstart;
             hpIncrease = 3;
+            minAttack = 5;
         }
     }
 }

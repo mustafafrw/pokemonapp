@@ -8,14 +8,14 @@ namespace PokemonApp.Characters
 {
     public class Charmander : Character
     {
-        public Charmander(int hpstart)
-        {
-            this.hpstart = hpstart;
-            hpleft = hpstart;
-            hpIncrease = 3;
-        }
         public Charmander()
         {
+            name = "Charmander";
+            hpstart = 25;
+            element = "Fire";
+            hpleft = hpstart;
+            hpIncrease = 3;
+            minAttack = 3;
         }
     }
 }

@@ -11,12 +11,12 @@ namespace PokemonApp.Characters
     {
         public Bulbasaur()
         {
-        }
-        public Bulbasaur(int hpstart)
-        {
-            this.hpstart = hpstart;
+            name = "Bulbasaur";
+            hpstart = 30;
+            element = "Earth";
             hpleft = hpstart;
-            hpIncrease = 3;
+            hpIncrease = 5;
+            minAttack = 1;
         }
     }
 
